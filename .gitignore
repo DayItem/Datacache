@@ -1,0 +1,7 @@
+DataCache.xcodeproj/xcuserdata/
+DataCache.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+DataCache.xcodeproj/project.xcworkspace/xcuserdata/
